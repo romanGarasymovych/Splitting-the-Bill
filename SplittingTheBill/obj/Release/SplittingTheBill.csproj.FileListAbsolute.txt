@@ -1,0 +1,5 @@
+c:\users\roma\documents\visual studio 2015\Projects\SplittingTheBill\SplittingTheBill\bin\Release\SplittingTheBill.exe.config
+c:\users\roma\documents\visual studio 2015\Projects\SplittingTheBill\SplittingTheBill\bin\Release\SplittingTheBill.exe
+c:\users\roma\documents\visual studio 2015\Projects\SplittingTheBill\SplittingTheBill\bin\Release\SplittingTheBill.pdb
+c:\users\roma\documents\visual studio 2015\Projects\SplittingTheBill\SplittingTheBill\obj\Release\SplittingTheBill.exe
+c:\users\roma\documents\visual studio 2015\Projects\SplittingTheBill\SplittingTheBill\obj\Release\SplittingTheBill.pdb
